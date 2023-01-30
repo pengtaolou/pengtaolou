@@ -27,7 +27,7 @@
 	"workExpList": [{
 		"company_name": "深圳来电科技有限公司",
 		"department_name": "客户项目部",
-		"work_time": ["2020.08", "至今"],
+		"work_time": ["2020.08", "2022.11"],
 		"work_desc": " 负责用户系统 充电宝租借系统 设备系统  支付及信用系统相关项目的迭代开发 \r "
 	}, {
 		"company_name": "海默潘多拉科技（深圳）有限公司",
@@ -44,7 +44,7 @@
 	"projectList": [{
 		"project_name": "来电充电宝租借系统",
 		"project_role": "核心开发者",
-		"project_time": "2020.08 -  至今",
+		"project_time": "2020.08 -  2022.11",
 		"project_desc": "共享充电宝租借系统 日订单百万 在线设备数十万 ",
 		"project_content": "共享充电宝租借系统 主要采用springboot mybatis redis 进行业务开发 dubbo进行rpc调用 采用skyingwalking 进行链路信息追踪 网关采用ngnix和apisix 配置中心apollo  elk日志收集。\r 我在其中负责租借相关系统的重构和迭代 包括 租借系统 支付系统 用户系统 优惠券系统 等等 也负责和其他部门的数据对接。 "
 	}, {
