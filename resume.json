@@ -64,7 +64,7 @@
 		"project_role": "核心开发者",
 		"project_time": "2017.05 - 2018.07",
 		"project_desc": "一元夺宝项目，用户购买相应份额，达到份额后开奖的夺宝系统",
-		"project_content": "负责项目的迭代优化。优化相关接口的反应速度。新增快速开奖类型 整体采用sping mybatis。"
+		"project_content": "负责项目的迭代优化。优化相关接口的反应速度。新增快速开奖类型 采用spring mybatis redis kafka 技术。"
 	}],
 	"workList": [],
 	"aboutme": {
