@@ -32,12 +32,12 @@
 	}, {
 		"company_name": "海默潘多拉科技有限公司",
 		"department_name": "软件开发部",
-		"work_time": ["2019.08", "2020.4"],
+		"work_time": ["2019.08", "2020.1"],
 		"work_desc": "负责公司信息化软件的设计开发。"
 	}, {
 		"company_name": "深圳五秒移动有限公司",
 		"department_name": "移动开发部",
-		"work_time": ["2017.05", "2019.04"],
+		"work_time": ["2017.05", "2019.03"],
 		"work_desc": "负责一元购服务端的后台开发 以及广告平台的设计与实现"
 	}],
 	"skillList": [],
